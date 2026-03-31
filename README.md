@@ -50,5 +50,7 @@ https://salary-prediction-app-gyordcdcnkeaudtbbbjnt2.streamlit.app/
 
 ---
 
-
+Author
+Oluwatosin Deborah Ajinomisan
+GitHub: https://github.com/ajinotosin-cyber
 
