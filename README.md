@@ -10,7 +10,8 @@ A machine learning web app that predicts an employee’s monthly salary based on
 
 ##  Live Demo
 
-https://salary-prediction-app-gyordcdcnkeaudtbbbjnt2.streamlit.app/
+https://salaryprediction-mndkwf96hia6zskd3hyapl.streamlit.app/
+
 
 
 
